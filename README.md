@@ -1,3 +1,3 @@
-# H1 Monarch Butterfly Grid
+# Monarch Butterfly Grid
 
-Learning to create a custom CSS grid via this personal project. A work in progress.
+Learning to create a custom CSS grid via this personal project. A work in progress! 
