@@ -12,11 +12,17 @@
                 clear: both;
             }
 
-
+            /* helps elements inside the row to stay inside the row */
             .grid:after {
               content: "";
               display: table;
               clear: both;
+            }
+
+            .container {
+                width:90%;
+                margin-left: auto;
+                margin-right: auto;
             }
 
             [class*='grid-'] {
