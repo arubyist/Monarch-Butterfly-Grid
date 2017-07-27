@@ -28,7 +28,7 @@
             [class*='grid-'] {
                 float: left;
                 width: 100%;
-                padding: 5%;
+                padding: 3%;
                 display: block;
             }
 
@@ -60,4 +60,30 @@
             /* 3/4 */
             .grid-3-4 {
                 width: 75%;
+            }
+
+
+
+            /* utility classes */
+            .left_align {
+                text-align: left;
+            }
+
+            .right-align {
+                text-align: right;
+            }
+
+            .center-align {
+                text-align: center;
+            }
+
+
+            /* typographic classes */
+
+            body {
+                font-family: Arial, Helvetica, sans-serif;
+            }
+
+            .header {
+                 font-family: 'Qwigley', cursive;
             }
